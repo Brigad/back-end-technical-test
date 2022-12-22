@@ -11,3 +11,9 @@ jspm_packages/
 
 # build
 dist/
+
+# IDE files
+.idea/
+
+# Environment variables
+src/config.json
